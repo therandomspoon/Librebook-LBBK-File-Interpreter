@@ -62,7 +62,7 @@ Duplicates a specified line from the content a given number of times.
 
 ## 🚧 Roadmap / To-Do
 
-- Add support for nested or conditional commands
+- Add encryption
 - Improve error handling for invalid syntax
 - Expand the available instruction set
 
