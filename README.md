@@ -12,9 +12,7 @@ The interpreter scans the `.LBBK` file, processes the header commands, and then 
 
 ## 🔧 Header Syntax and Commands
 
-The **header** must end with the marker:
-
-    /@]
+The **header** must end with the marker: `**/@]`
 
 Any lines after this marker are considered normal content and not interpreted as commands.
 
