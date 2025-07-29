@@ -33,8 +33,6 @@ Skips a specified line from the content after the header.
 
 - **Important**: The `&` is required at the end of the command. It acts as a command terminator and must be present.
 
----
-
 #### `REPEAT`
 
 Duplicates a specified line from the content a given number of times.
